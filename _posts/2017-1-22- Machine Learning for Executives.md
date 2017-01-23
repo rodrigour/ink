@@ -34,17 +34,16 @@ This is a short list of changes that a Machine Learning strategy can bring to a 
 
 
 ### Is this automation will replace humans in the long term?
-It is true that Machine Learning, learning and predicting ability, will cut most of the value-chain where humans are now a days involved to help understand data, process information, understand decisions, crunch customer data, etc. Looking 2 to 3 years ahead in the future it is expected to see high level of machine learning and artifcial intelligence charged processes, being managed without human interaction. But, yes there is a but in this equation...
+It is true that Machine Learning, learning and predicting ability, will cut most of the value-chain where humans are now a days involved to help understand data, process information, understand decisions, crunch customer data, etc. Looking 2 to 3 years ahead in the future it is expected to see high level of machine learning and artificial-intelligence-charged-processes, being managed without human interaction. But..., yes there is a but in this equation...
 
-No matter how intelligent Machine Learning is, only human positions will be able to decide the final decision on their strategy, work and interaction with customers. Just like any sales position in an organization needs Quarterly Reviews, Machine Learning agents and predictions also need to part of a Quarterly business Review.
+No matter how intelligent Machine Learning is, only human positions will be able to have the last word on their strategy, work and interact with customers. Just like any sales position in an organization needs Quarterly Reviews, Machine Learning agents and predictions also need to be part of a Quarterly Business Reviews, evaluate them and make corrections.
 
 
 ### Conclusion
-Think strategically on Machine-Learning by getting it high on the Business Executives agenda as enterprises in the next 2 to 3 years will excel on how high their Machine Learning strategy is positioned.            
+Think strategically on Machine-Learning by getting it high on the Business Executives agenda, as enterprises in the next 2 to 3 years will excel based on how high their Machine Learning strategy is positioned.            
 
 
 Sources:
 Rodrigo Coronado - Business Optimization Model - Microsoft 2014
-Rodrigo Coronado - Business Operational Practice - Microsoft 2013
 CICR Center For Information Systems Research - Optimization Models
-Microsoft Infrastructure Optimization Models
+Microsoft Optimization Models
