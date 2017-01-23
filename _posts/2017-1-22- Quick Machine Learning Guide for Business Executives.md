@@ -8,11 +8,11 @@ One great example comes from Stanford’s AI lab, when in 2007 they started leve
 ### Machine Learning-fed business models are bursting.
 The discipline has evolved in the last decade, to the point of detecting strategic patterns from historical data, that could evolve and shape a business strategy.
 
--	Most top financial and insurance institutions have incorporated machine learning techniques into their core business processes. For example, some financial institutions have constructed models to forecast which customers would avoid loan payments or cancel prematurely their service; and based on this create a new customer model to reduce their cost on cash collections, loan declines, and marketing targeting.
+**Top financial and insurance institutions** have incorporated machine learning techniques into their core business processes. For example, some financial institutions have constructed models to forecast which customers would avoid loan payments or cancel prematurely their service; and based on this create a new customer model to reduce their cost on cash collections, loan declines, and marketing targeting.
 
--	In the oil and gas industry, companies like Shell have gone to the task of using Machine Learning to analyze countless sources of historical data, from their geological, exploration, and mining processes to answer the most important question in the energy industry: Where is more oil?
+**In the oil and gas industry**, companies like Shell have gone to the task of using Machine Learning to analyze countless sources of historical data, from their geological, exploration, and mining processes to answer the most important question in the energy industry: Where is more oil?
 
--	In horizontal areas like Talent Management, companies like McKenzie consulting, made an experiment feeding a pool of thousands of historical resumes that the company receive to a Machine learning algorithm, select the top candidates, and at the end correlate them with their final hires over the years. Interestingly the predictions where highly correlated with their real results.
+**In horizontal areas like Talent Management**, companies like McKenzie consulting, made an experiment feeding a pool of thousands of historical resumes that the company receive to a Machine learning algorithm, select the top candidates, and at the end correlate them with their final hires over the years. Interestingly the predictions where highly correlated with their real results.
 
 Examples like this have burst in the last couple of years, and as the more analog process get digitized, our capability to learn from data and leveraging Machine Learning algorithms will become a CORE component for any business to evolve and survive in this new era.
 
