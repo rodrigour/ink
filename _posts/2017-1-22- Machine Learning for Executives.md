@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Machine Learning Initial Ideas For Executives.
+---
 
 ### A brief history of Machine Learning
 Machine learning is founded on algorithms that could learn from information and data without relying on rules-based programming. The advances in digitization and growth in computer power in the late 90s, enable scientists train computers to learn instead of creating traditional models. In the last decade, the unmanageable volume and the complexity of data, have continued to increase the potential in Machine Learning and Data Science.
@@ -38,3 +41,10 @@ No matter how intelligent Machine Learning is, only human positions will be able
 
 ### Conclusion
 Think strategically on Machine-Learning by getting it high on the Business Executives agenda as enterprises in the next 2 to 3 years will excel on how high their Machine Learning strategy is positioned.            
+
+
+Sources:
+Rodrigo Coronado - Business Optimization Model - Microsoft 2014
+Rodrigo Coronado - Business Operational Practice - Microsoft 2013
+CICR Center For Information Systems Research - Optimization Models
+Microsoft Infrastructure Optimization Models
