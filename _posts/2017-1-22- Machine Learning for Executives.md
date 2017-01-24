@@ -47,3 +47,4 @@ Sources:
 Rodrigo Coronado - Business Optimization Model - Microsoft 2014
 CICR Center For Information Systems Research - Optimization Models
 Microsoft Optimization Models
+McKenzie Analytics
