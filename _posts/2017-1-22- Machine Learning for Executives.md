@@ -3,12 +3,12 @@ layout: post
 title: Machine Learning Initial Ideas For Executives.
 ---
 
-### A brief history of Machine Learning
+### What is Machine Learning?
 Machine learning is founded on algorithms that could learn from information and data without relying on rules-based programming. The advances in digitization, access to computer power in the cloud and advanced statistical algorithms, enable scientists train computers to learn instead of creating traditional models. In the last decade, the unmanageable volume and the complexity of data, have continued to increase the potential in Machine Learning and Data Science.
 
 One great example comes from Stanford’s Artificial Intelligence lab, when in 2007 they started using all this compute power, feeding statistical models with millions of raw images and identifying patterns in the data. By using thousands of labeled images of an object, for example a chair, the machine model was able to identify a specific combination of pixels matching the chair.
 
-### Machine Learning-fed business models are bursting.
+### The burst of Machine Learning-fed business models.
 The discipline in Machine Learning has evolved in the last decade, to the point of detecting patterns from historical data, that could evolve and shape a business strategy. And a numerous amount of examples in every industry have starting to pop up. For example:
 
 **Top insurance institutions** have incorporated machine learning into their core business processes. For example, some financial institutions have constructed models to forecast which customers would avoid loan payments or cancel prematurely their service; and based on this create a new customer model to reduce their cost on cash collections, loan declines, and marketing targeting.
@@ -19,7 +19,7 @@ The discipline in Machine Learning has evolved in the last decade, to the point 
 
 Examples like this have burst in the last couple of years, and as the more analog process get digitized, our capability to learn from data and leveraging Machine Learning algorithms will become a CORE component for any business to evolve and survive in this new era.
 
-### Where go I start with Machine Learning in my organization?
+### Where do I start with Machine Learning in my organization?
 **Strategy.** Business executives will best take advantage of Machine Learning if they perceive it as “strategic” business tool to craft and implement their business vision. Without being considered strategic, machine learning as any other technology-based tools, have the risks of becoming just another operational tool; used to create siloed solutions in the organization.
 
 **Business Data Scientist**. The executives in charge with building the strategic vision may have a data scientist with business experience, and as the overall strategy is formulated, guidance from C-level peers need to be part of the vision.
